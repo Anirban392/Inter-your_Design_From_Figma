@@ -1,3 +1,9 @@
+#My React Project
+
+##Design
+Figma Design: https://www.figma.com/design/lO7Y0P0r0IkkUZhG74ep2J/Interior-Design-Website-UI-Template--Community-?node-id=0-1&t=k4xALxpkKVXRqYEJ-0
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
